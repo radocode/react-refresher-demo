@@ -18,24 +18,24 @@ h2 {
   padding: 0.5rem 1.5rem;
   cursor: pointer;
   border-radius: 4px;
-  background-color: #800040;
+  background-color: #0b9bd4;
   color: white;
-  border: 1px solid #800040;
+  border: 1px solid #0b9bd4;
   margin: 0 1rem;
 }
 
 .btn:hover {
-  background-color: #9c1458;
-  border-color: #9c1458;
+  background-color: #c6d9f1;
+  border-color: #c6d9f1;
 }
 
 .btn--alt {
   background-color: transparent;
-  color: #800040;
+  color: #0b9bd4;
 }
 
 .btn--alt:hover {
-  background-color: #f8dae9;
+  background-color: #c6d9f1;
 }
 
 .card {
